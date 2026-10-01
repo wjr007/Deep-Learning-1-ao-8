@@ -8,6 +8,10 @@
 
 Coleção completa e estruturada de **8 Laboratórios Práticos de Deep Learning** desenvolvidos em **Python e PyTorch**. Esta trilha aborda desde os alicerces matemáticos e os primeiros neurônios artificiais até o design, implementação e treinamento de arquiteturas modernas de **Visão Computacional e Redes Residuais (ResNet)**.
 
+<p align="center">
+  <img src="assets/deep_learning_journey.jpg" alt="Deep Learning Journey: Labs 01 ao 08" width="100%">
+</p>
+
 ---
 
 ## 🗺️ Matriz da Trilha de Aprendizagem
